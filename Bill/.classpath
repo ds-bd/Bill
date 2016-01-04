@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="/drawee/libs/drawee-v0.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/fbcore/libs/fbcore-v0.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/fresco/libs/fresco-v0.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/imagepipeline/libs/imagepipeline-v0.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/imagepipeline-okhttp/libs/imagepipeline-okhttp-v0.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Android/android-sdk/extras/android/support/v4/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="/android-support-design/libs/android-support-design.jar"/>
+	<classpathentry kind="lib" path="/android-support-v7-cardview/libs/android-support-v7-cardview.jar"/>
+	<classpathentry kind="lib" path="/android-support-v7-recyclerview/libs/android-support-v7-recyclerview.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

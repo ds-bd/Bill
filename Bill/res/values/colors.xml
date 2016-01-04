@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="tab_text">#560956</color>
+    <color name="tab_indicator">#ad80ad</color>
+    <color name="tab_bg">#ddc5f7</color>
+    <color name="pager_bg">#eeeaf2</color>
+    
+    <color name="dialog_bg">#b4b4ed</color>
+    <color name="dialog_text">#1f1f5b</color>
+    <color name="dialog_button_bg">#7c1616</color>
+
+</resources>
